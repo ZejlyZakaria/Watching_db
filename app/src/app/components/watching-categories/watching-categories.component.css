@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+}
+.user-categories-page {
+  background-color: #111827;
+  min-height: 100vh;
+  color: #fff !important;
+}
+.categorie-card, .add-categorie-card {
+  background-color: #1f2937;
+  background-clip: padding-box;
+  border: 10px solid transparent !important;
+  padding: 11px;
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.card-img, .add-card-icon {
+  width: 100%;
+  height: 150px;
+  margin-bottom: 8px;
+}
+.add-card-icon{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.add-card-icon i{
+font-size: 120px;
+font-weight: 600;
+text-align: center;
+}
+.card-disc {
+  font-size: 12px;
+  margin-bottom: 8px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}
+.card-disc-title{
+  font-size: 14px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #adadad;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: auto;
+}
+.footer-btn button {
+  padding: 3px 25px;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.footer-info {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+.footer-info i {
+  font-size: 22px;
+  font-weight: 500;
+}
+#animes i {
+  color: #0898a6;
+}
+#movies i {
+  color: #995FF0;
+}
+#series i {
+  color: #FC8156;
+}
+#add-categorie i{
+  color: #F8B7B7;
+}
