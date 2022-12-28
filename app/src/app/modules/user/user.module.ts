@@ -7,17 +7,13 @@ import { AnimeDashboardComponent } from './anime/components/anime-dashboard/anim
 import { AnimeSidebarComponent } from './anime/components/anime-sidebar/anime-sidebar.component';
 import { AnimeDetailsPageComponent } from './anime/components/anime-details-page/anime-details-page.component';
 
-
 @NgModule({
   declarations: [
     AnimeHomeComponent,
     AnimeDashboardComponent,
     AnimeSidebarComponent,
-    AnimeDetailsPageComponent
+    AnimeDetailsPageComponent,
   ],
-  imports: [
-    CommonModule,
-    UserRoutingModule
-  ]
+  imports: [CommonModule, UserRoutingModule],
 })
-export class UserModule { }
+export class UserModule {}

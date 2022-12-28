@@ -1,265 +1,279 @@
-*{
+* {
   font-family: "Nunito", sans-serif;
 }
 body {
-    user-select: none;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  user-select: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 /* Scroll bar */
 ::-webkit-scrollbar {
-    width: 8px;
-    margin: 10px;
+  width: 8px;
+  margin: 10px;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-    background: (var(--bg-scroll));
+  background: (var(--bg-scroll));
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: #a26ce4;
+  background: #a26ce4;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: #7832e0;
+  background: #7832e0;
 }
 
 /* **************************** width **************************** */
 .w-75pc {
-    width: 75%;
+  width: 75%;
 }
 .w-24pc {
-    width: 24%;
+  width: 24%;
 }
 .w-100pc {
-    width: 100%;
+  width: 100%;
 }
 /* **************************** padding **************************** */
 .p-2 {
-    padding: 2px;
+  padding: 2px;
+}
+.p-10{
+  padding: 10px;
 }
 .p-15 {
-    padding: 15px;
+  padding: 15px;
 }
 .pl-15 {
-    padding-left: 15px;
+  padding-left: 15px;
 }
 .pt-15 {
-    padding-top: 15px;
+  padding-top: 15px;
 }
 .pb-15 {
-    padding-bottom: 15px;
+  padding-bottom: 15px;
 }
 .ptb-15 {
-    padding: 15px 0 15px 0;
+  padding: 15px 0 15px 0;
 }
 .plr-15 {
-    padding: 0 15px 0 15px;
+  padding: 0 15px 0 15px;
 }
 .ptlr-15 {
-    padding: 15px 15px 0 15px;
+  padding: 15px 15px 0 15px;
 }
 /* **************************** margin **************************** */
 .ml-10 {
-    margin-left: 10px;
+  margin-left: 10px;
 }
 .ml-5 {
-    margin-left: 5px;
+  margin-left: 5px;
 }
 .mr-10 {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 .mt-10 {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 .mt-25 {
-    margin-top: 56px;
+  margin-top: 56px;
 }
 .mb-8 {
-    margin-bottom: 8px;
+  margin-bottom: 8px;
 }
 .mb-10 {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 .mb-15 {
   margin-bottom: 15px;
 }
 .mtb-10 {
-    margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
 }
 /* **************************** font size **************************** */
-.fs-big{
+.fs-big {
   font-size: 32px;
 }
-.fs-medium{
+.fs-medium {
   font-size: 20px;
 }
-.fs-small{
+.fs-small {
   font-size: 10px;
 }
-.fs-global{
+.fs-global {
   font-size: 14px;
 }
 .fs-10 {
-    font-size: 10px;
+  font-size: 10px;
 }
 .fs-12 {
-    font-size: 12px;
+  font-size: 12px;
 }
 .fs-14 {
-    font-size: 14px;
+  font-size: 14px;
 }
 .fs-16 {
-    font-size: 16px;
+  font-size: 16px;
 }
 .fs-18 {
-    font-size: 18px;
+  font-size: 18px;
 }
 .fs-22 {
-    font-size: 22px;
+  font-size: 22px;
 }
 .fs-26 {
-    font-size: 26px;
+  font-size: 26px;
 }
 .fs-30 {
-    font-size: 30px;
+  font-size: 30px;
 }
 .fs-34 {
-    font-size: 34px;
+  font-size: 34px;
 }
 .fs-40 {
-    font-size: 40px;
+  font-size: 40px;
 }
 /* **************************** font weight **************************** */
 .fw-4 {
-    font-weight: 400;
+  font-weight: 400;
 }
 .fw-5 {
-    font-weight: 500;
+  font-weight: 500;
 }
 .fw-6 {
-    font-weight: 600;
+  font-weight: 600;
 }
 .fw-7 {
-    font-weight: 700;
+  font-weight: 700;
 }
 .fw-8 {
-    font-weight: 800;
+  font-weight: 800;
 }
 .fw-9 {
-    font-weight: 900;
+  font-weight: 900;
 }
 /* **************************** text align **************************** */
 .ta-center {
-    text-align: center;
+  text-align: center;
 }
 .ta-right {
-    text-align: right;
+  text-align: right;
 }
 .ta-left {
-    text-align: left;
+  text-align: left;
 }
 .ta-top {
-    text-align: top;
+  text-align: top;
 }
 /* **************************** color **************************** */
 .cl-yellow {
-    color: yellow;
+  color: yellow;
 }
 .cl-orange {
-    color: orange;
+  color: orange;
 }
 .cl-gray {
-    color: rgb(146, 146, 146);
+  color: rgb(146, 146, 146);
 }
 .cl-white {
-    color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
 }
 .cl-black {
-    color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
 }
 /* **************************** light color **************************** */
 .cl-l-gray {
-    color: #ccc;
+  color: #ccc;
 }
 .cl-l-purple {
-    color: #e6ccff;
+  color: #e6ccff;
 }
 /* **************************** dark color **************************** */
 .cl-d-gray {
-    color: rgb(80, 80, 80);
+  color: rgb(80, 80, 80);
 }
 
 /* **************************** background color **************************** */
 .bg-yellow {
-    background-color: yellow;
+  background-color: yellow;
 }
 .bg-l-purple {
-    background-color: #f2e6ff;
+  background-color: #f2e6ff;
 }
 .bg-d-purple {
-    background-color: #bf00ff;
+  background-color: #bf00ff;
 }
 .bg-white {
-    background-color: #fff;
+  background-color: #fff;
 }
 .bg-black {
-    background-color: #000;
+  background-color: #000;
 }
 .bg-d-gray {
-    background-color: #3f3f41;
+  background-color: #3f3f41;
 }
 .bg-red {
-    background-color: #f00;
+  background-color: #f00;
 }
 .bg-black {
-    background-color: transparent;
+  background-color: transparent;
+}
+.bg-gray {
+  background-color: #ccc;
+}
+.dark-bg{
+  background-color: #111827;
+  border-radius: 15px;
 }
 .border-gray {
-    border: 1px solid rgb(163, 163, 163);
+  border: 1px solid rgb(163, 163, 163);
 }
 
 /* **************************** display **************************** */
-.center-all {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.center-between {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-.center-around {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-.d-inline-block {
-    display: inline-block;
-}
-.center-h{
+.center-v{
   display: flex;
   justify-content: center;
 }
+.center-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.center-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.center-around {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.d-inline-block {
+  display: inline-block;
+}
+.center-h {
+  display: flex;
+  align-items: center;
+}
 .fl-r {
-    float: right;
+  float: right;
 }
 
 /* **************************** position **************************** */
 .pos-fixed {
-    position: fixed;
-    overflow-y: scroll;
+  position: fixed;
+  overflow-y: scroll;
 }
 .fixed {
-    position: fixed;
+  position: fixed;
 }
 
 /* **************************** line height **************************** */
 .line-h-18 {
-    line-height: 1.8;
+  line-height: 1.8;
 }

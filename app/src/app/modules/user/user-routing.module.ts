@@ -1,3 +1,4 @@
+import { SlicePipe } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { AnimeDashboardComponent } from './anime/components/anime-dashboard/anime-dashboard.component';

@@ -1,0 +1,289 @@
+<section class="anime-details-page-content">
+  <div class="content center-all">
+    <div class="anime-info">
+      <div>
+        <div class="row">
+          <div class="anime-img center-h col-sm-12 col-md-4 col-lg-4 col-xl-3">
+            <div>
+              <img
+                src="../../../../../../assets/images/animes/one-piece.jpg"
+                alt=""
+              />
+            </div>
+          </div>
+          <div class="anime-disc col-sm-12 col-md-8 col-lg-8 col-xl-9">
+            <div class="anime-title fs-big fw-8 mb-10">One Piece</div>
+            <div class="anime-categorie mb-15 fs-global fw-8 row">
+              <div
+                class="categorie col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 ta-center"
+              >
+                <div>Adventure</div>
+              </div>
+              <div
+                class="categorie col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 ta-center"
+              >
+                <div>Action</div>
+              </div>
+              <div
+                class="categorie col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 ta-center"
+              >
+                <div>Drama</div>
+              </div>
+              <div
+                class="categorie col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 ta-center"
+              >
+                <div>Comedy</div>
+              </div>
+            </div>
+            <div class="anime-story fs-global">
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia
+              tempore exercitationem iste, sapiente enim assumenda cumque
+              veritatis odit aspernatur sunt alias quisquam dolore minima.
+              Temporibus ad, a, fugit cupiditate id non deserunt modi saepe
+              impedit molestiae ratione ullam quis quos! citationem iste,
+              sapiente enim assumenda cumque veritatis odit aspernatur sunt
+              alias quisquam dolore minima. Temporibus ad, a, fugit cupiditate
+              id non deserunt modi saepe impedit molestiae ratione ullam quis
+              quos!
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- <div class="related row">
+        <div class="related-card col-12 col-sm-12 col-md-6 col-lg-4 col-xl-2">
+          <div class="card-img">
+            <img src="../../../assets/images/animes/hxh.webp" alt="" />
+          </div>
+          <div class="card-disc">
+            <div class="card-disc-title">Animes categorie</div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem,
+            consequatur officiis adipisci error deleniti repellendus suscipit
+            deserunt amet facilis soluta? Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Ipsum rem veniam labore unde placeat similique
+            quia
+          </div>
+          <div class="footer">
+            <div class="footer-btn">
+              <button
+                type="button"
+                class="bg-gradient-to-r from-teal-400 via-teal-500 to-teal-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-teal-300 dark:focus:ring-teal-800 rounded"
+              >
+                Enter
+              </button>
+            </div>
+            <div class="footer-info" id="animes">
+              <i class="bx bx-info-circle"></i>
+            </div>
+          </div>
+        </div>
+        <div class="related-card col-12 col-sm-12 col-md-6 col-lg-4 col-xl-2">
+          <div class="card-img">
+            <img src="../../../assets/images/movies/bg-jhon-wick.jpg" alt="" />
+          </div>
+          <div class="card-disc">
+            <div class="card-disc-title">Movies categorie</div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem,
+            consequatur officiis adipisci error deleniti repellendus suscipit
+            deserunt amet facilis soluta? Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Ipsum rem
+          </div>
+          <div class="footer">
+            <div class="footer-btn">
+              <button
+                type="button"
+                class="bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 rounded"
+              >
+                Enter
+              </button>
+            </div>
+            <div class="footer-info" id="movies">
+              <i class="bx bx-info-circle"></i>
+            </div>
+          </div>
+        </div>
+        <div class="related-card col-12 col-sm-12 col-md-6 col-lg-4 col-xl-2">
+          <div class="card-img">
+            <img
+              src="../../../assets/images/series/bg-breaking bad.jpg"
+              alt=""
+            />
+          </div>
+          <div class="card-disc">
+            <div class="card-disc-title">Series categorie</div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem,
+            consequatur officiis adipisci error deleniti repellendus suscipit
+            deserunt amet facilis soluta? Lorem ipsum dolor sit amet consectetur
+          </div>
+          <div class="footer">
+            <div class="footer-btn">
+              <button
+                type="button"
+                class="bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 rounded"
+              >
+                Enter
+              </button>
+            </div>
+            <div class="footer-info" id="series">
+              <i class="bx bx-info-circle"></i>
+            </div>
+          </div>
+        </div>
+
+        <div class="related-card col-12 col-sm-12 col-md-6 col-lg-4 col-xl-2">
+          <div class="card-img">
+            <img src="../../../assets/images/animes/hxh.webp" alt="" />
+          </div>
+          <div class="card-disc">
+            <div class="card-disc-title">Animes categorie</div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem,
+            consequatur officiis adipisci error deleniti repellendus suscipit
+            deserunt amet facilis soluta? Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Ipsum rem veniam labore unde placeat similique
+            quia
+          </div>
+          <div class="footer">
+            <div class="footer-btn">
+              <button
+                type="button"
+                class="bg-gradient-to-r from-teal-400 via-teal-500 to-teal-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-teal-300 dark:focus:ring-teal-800 rounded"
+              >
+                Enter
+              </button>
+            </div>
+            <div class="footer-info" id="animes">
+              <i class="bx bx-info-circle"></i>
+            </div>
+          </div>
+        </div>
+        <div class="related-card col-12 col-sm-12 col-md-6 col-lg-4 col-xl-2">
+          <div class="card-img">
+            <img src="../../../assets/images/movies/bg-jhon-wick.jpg" alt="" />
+          </div>
+          <div class="card-disc">
+            <div class="card-disc-title">Movies categorie</div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem,
+            consequatur officiis adipisci error deleniti repellendus suscipit
+            deserunt amet facilis soluta? Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Ipsum rem
+          </div>
+          <div class="footer">
+            <div class="footer-btn">
+              <button
+                type="button"
+                class="bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 rounded"
+              >
+                Enter
+              </button>
+            </div>
+            <div class="footer-info" id="movies">
+              <i class="bx bx-info-circle"></i>
+            </div>
+          </div>
+        </div>
+        <div class="related-card col-12 col-sm-12 col-md-6 col-lg-4 col-xl-2">
+          <div class="card-img">
+            <img
+              src="../../../assets/images/series/bg-breaking bad.jpg"
+              alt=""
+            />
+          </div>
+          <div class="card-disc">
+            <div class="card-disc-title">Series categorie</div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem,
+            consequatur officiis adipisci error deleniti repellendus suscipit
+            deserunt amet facilis soluta? Lorem ipsum dolor sit amet consectetur
+          </div>
+          <div class="footer">
+            <div class="footer-btn">
+              <button
+                type="button"
+                class="bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 rounded"
+              >
+                Enter
+              </button>
+            </div>
+            <div class="footer-info" id="series">
+              <i class="bx bx-info-circle"></i>
+            </div>
+          </div>
+        </div>
+      </div> -->
+
+      <section class="product">
+        <div class="container-fluid">
+          <!-- <div class="button-area">
+            <button type="button" class="prev" appPrev>prev</button>
+            <button type="button" class="next" appNext>next</button>
+          </div> -->
+          <div class="slider-wrap">
+            <div class="slider-main" id="slider-main">
+              <div class="item">
+                <div class="card-img">
+                  <img src="../../../assets/images/animes/hxh.webp" alt="" />
+                </div>
+                <div class="card-disc">
+                  <div class="card-disc-title">Animes categorie</div>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Quidem, consequatur officiis adipisci error deleniti
+                  repellendus suscipit deserunt amet facilis soluta? Lorem ipsum
+                  dolor sit amet consectetur adipisicing elit. Ipsum rem veniam
+                  labore unde placeat similique quia
+                </div>
+                <div class="footer">
+                  <div class="footer-btn">
+                    <button
+                      type="button"
+                      class="bg-gradient-to-r from-teal-400 via-teal-500 to-teal-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-teal-300 dark:focus:ring-teal-800 rounded"
+                    >
+                      Enter
+                    </button>
+                  </div>
+                  <div class="footer-info" id="animes">
+                    <i class="bx bx-info-circle"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="card-img">
+                  <img src="../../../assets/images/animes/hxh.webp" alt="" />
+                </div>
+                <div class="card-disc">
+                  <div class="card-disc-title">Animes categorie</div>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Quidem, consequatur officiis adipisci error deleniti
+                  repellendus suscipit deserunt amet facilis soluta? Lorem ipsum
+                  dolor sit amet consectetur adipisicing elit. Ipsum rem veniam
+                  labore unde placeat similique quia
+                </div>
+                <div class="footer">
+                  <div class="footer-btn">
+                    <button
+                      type="button"
+                      class="bg-gradient-to-r from-teal-400 via-teal-500 to-teal-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-teal-300 dark:focus:ring-teal-800 rounded"
+                    >
+                      Enter
+                    </button>
+                  </div>
+                  <div class="footer-info" id="animes">
+                    <i class="bx bx-info-circle"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="text">3</div>
+              </div>
+              <div class="item">
+                <div class="text">4</div>
+              </div>
+              <div class="item">
+                <div class="text">5</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</section>
+<div class="black-div"></div>
